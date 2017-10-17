@@ -1,0 +1,4 @@
+name: "api_key"
+in: "header"
+required: false
+type: "string"

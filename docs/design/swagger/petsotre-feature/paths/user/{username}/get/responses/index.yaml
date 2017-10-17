@@ -1,0 +1,6 @@
+200:
+  $ref: "./200/index.yaml"
+400:
+  $ref: "./400/index.yaml"
+404:
+  $ref: "./404/index.yaml"

@@ -1,0 +1,4 @@
+petstore_auth:
+  $ref: "./petstore_auth/index.yaml"
+api_key:
+  $ref: "./api_key/index.yaml"

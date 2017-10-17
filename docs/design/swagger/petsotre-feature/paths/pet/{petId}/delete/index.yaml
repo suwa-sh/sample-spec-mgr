@@ -1,0 +1,13 @@
+tags:
+  $ref: "./tags/index.yaml"
+summary: "Deletes a pet"
+description: ""
+operationId: "deletePet"
+produces:
+  $ref: "./produces/index.yaml"
+parameters:
+  $ref: "./parameters/index.yaml"
+responses:
+  $ref: "./responses/index.yaml"
+security:
+  $ref: "./security/index.yaml"
