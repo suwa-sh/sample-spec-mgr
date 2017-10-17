@@ -1,0 +1,3 @@
+type: "integer"
+format: "int32"
+description: "calls per hour allowed by the user"

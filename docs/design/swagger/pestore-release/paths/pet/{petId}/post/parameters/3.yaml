@@ -1,0 +1,5 @@
+name: "status"
+in: "formData"
+description: "Updated status of the pet"
+required: false
+type: "string"
