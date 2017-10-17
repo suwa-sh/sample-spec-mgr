@@ -1,0 +1,15 @@
+tags:
+  $ref: "./tags/index.yaml"
+summary: "Add a new pet to the store"
+description: ""
+operationId: "addPet"
+consumes:
+  $ref: "./consumes/index.yaml"
+produces:
+  $ref: "./produces/index.yaml"
+parameters:
+  $ref: "./parameters/index.yaml"
+responses:
+  $ref: "./responses/index.yaml"
+security:
+  $ref: "./security/index.yaml"
