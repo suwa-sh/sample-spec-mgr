@@ -1,0 +1,5 @@
+type: "oauth2"
+authorizationUrl: "http://petstore.swagger.io/oauth/dialog"
+flow: "implicit"
+scopes:
+  $ref: "./scopes/index.yaml"

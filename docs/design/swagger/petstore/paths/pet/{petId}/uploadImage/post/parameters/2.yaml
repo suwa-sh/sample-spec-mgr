@@ -1,0 +1,5 @@
+name: "additionalMetadata"
+in: "formData"
+description: "Additional data to pass to server"
+required: false
+type: "string"

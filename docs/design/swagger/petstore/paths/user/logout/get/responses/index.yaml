@@ -1,0 +1,2 @@
+default:
+  $ref: "./default/index.yaml"
