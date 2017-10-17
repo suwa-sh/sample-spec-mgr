@@ -1,0 +1,6 @@
+in: "body"
+name: "body"
+description: "List of user object"
+required: true
+schema:
+  $ref: "./schema/index.yaml"

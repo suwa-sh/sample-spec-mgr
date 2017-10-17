@@ -1,0 +1,15 @@
+tags:
+  $ref: "./tags/index.yaml"
+summary: "uploads an image"
+description: ""
+operationId: "uploadFile"
+consumes:
+  $ref: "./consumes/index.yaml"
+produces:
+  $ref: "./produces/index.yaml"
+parameters:
+  $ref: "./parameters/index.yaml"
+responses:
+  $ref: "./responses/index.yaml"
+security:
+  $ref: "./security/index.yaml"

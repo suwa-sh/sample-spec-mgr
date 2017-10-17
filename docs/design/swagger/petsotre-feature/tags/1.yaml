@@ -1,0 +1,4 @@
+name: "pet"
+description: "Everything about your Pets"
+externalDocs:
+  $ref: "./externalDocs/index.yaml"
