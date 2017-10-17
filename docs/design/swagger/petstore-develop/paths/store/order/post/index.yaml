@@ -1,0 +1,11 @@
+tags:
+  $ref: "./tags/index.yaml"
+summary: "Place an order for a pet"
+description: ""
+operationId: "placeOrder"
+produces:
+  $ref: "./produces/index.yaml"
+parameters:
+  $ref: "./parameters/index.yaml"
+responses:
+  $ref: "./responses/index.yaml"

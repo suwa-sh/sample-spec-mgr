@@ -1,0 +1,13 @@
+tags:
+  $ref: "./tags/index.yaml"
+summary: "Find pet by ID"
+description: "Returns a single pet"
+operationId: "getPetById"
+produces:
+  $ref: "./produces/index.yaml"
+parameters:
+  $ref: "./parameters/index.yaml"
+responses:
+  $ref: "./responses/index.yaml"
+security:
+  $ref: "./security/index.yaml"
