@@ -1,0 +1,5 @@
+name: "file"
+in: "formData"
+description: "file to upload"
+required: false
+type: "file"

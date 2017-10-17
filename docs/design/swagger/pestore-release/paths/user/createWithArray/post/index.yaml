@@ -1,0 +1,11 @@
+tags:
+  $ref: "./tags/index.yaml"
+summary: "Creates list of users with given input array"
+description: ""
+operationId: "createUsersWithArrayInput"
+produces:
+  $ref: "./produces/index.yaml"
+parameters:
+  $ref: "./parameters/index.yaml"
+responses:
+  $ref: "./responses/index.yaml"

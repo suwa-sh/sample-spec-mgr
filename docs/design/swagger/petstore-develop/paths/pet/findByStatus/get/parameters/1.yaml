@@ -1,0 +1,8 @@
+name: "status"
+in: "query"
+description: "Status values that need to be considered for filter"
+required: true
+type: "array"
+items:
+  $ref: "./items/index.yaml"
+collectionFormat: "multi"

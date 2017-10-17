@@ -1,0 +1,11 @@
+tags:
+  $ref: "./tags/index.yaml"
+summary: "Delete user"
+description: "This can only be done by the logged in user."
+operationId: "deleteUser"
+produces:
+  $ref: "./produces/index.yaml"
+parameters:
+  $ref: "./parameters/index.yaml"
+responses:
+  $ref: "./responses/index.yaml"

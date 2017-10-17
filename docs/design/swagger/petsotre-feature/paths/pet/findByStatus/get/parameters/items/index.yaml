@@ -1,0 +1,4 @@
+type: "string"
+enum:
+  $ref: "./enum/index.yaml"
+default: "available"

@@ -1,0 +1,15 @@
+tags:
+  $ref: "./tags/index.yaml"
+summary: "Updates a pet in the store with form data"
+description: ""
+operationId: "updatePetWithForm"
+consumes:
+  $ref: "./consumes/index.yaml"
+produces:
+  $ref: "./produces/index.yaml"
+parameters:
+  $ref: "./parameters/index.yaml"
+responses:
+  $ref: "./responses/index.yaml"
+security:
+  $ref: "./security/index.yaml"

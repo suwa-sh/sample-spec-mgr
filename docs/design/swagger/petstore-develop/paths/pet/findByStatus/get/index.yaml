@@ -1,0 +1,13 @@
+tags:
+  $ref: "./tags/index.yaml"
+summary: "Finds Pets by status"
+description: "Multiple status values can be provided with comma separated strings"
+operationId: "findPetsByStatus"
+produces:
+  $ref: "./produces/index.yaml"
+parameters:
+  $ref: "./parameters/index.yaml"
+responses:
+  $ref: "./responses/index.yaml"
+security:
+  $ref: "./security/index.yaml"

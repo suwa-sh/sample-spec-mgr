@@ -1,0 +1,11 @@
+tags:
+  $ref: "./tags/index.yaml"
+summary: "Create user"
+description: "This can only be done by the logged in user."
+operationId: "createUser"
+produces:
+  $ref: "./produces/index.yaml"
+parameters:
+  $ref: "./parameters/index.yaml"
+responses:
+  $ref: "./responses/index.yaml"

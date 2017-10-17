@@ -1,0 +1,4 @@
+name: "user"
+description: "Operations about user"
+externalDocs:
+  $ref: "./externalDocs/index.yaml"

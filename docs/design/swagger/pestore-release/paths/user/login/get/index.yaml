@@ -1,0 +1,11 @@
+tags:
+  $ref: "./tags/index.yaml"
+summary: "Logs user into the system"
+description: ""
+operationId: "loginUser"
+produces:
+  $ref: "./produces/index.yaml"
+parameters:
+  $ref: "./parameters/index.yaml"
+responses:
+  $ref: "./responses/index.yaml"

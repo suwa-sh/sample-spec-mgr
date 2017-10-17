@@ -1,0 +1,12 @@
+tags:
+  $ref: "./tags/index.yaml"
+summary: "Delete purchase order by ID"
+description: "For valid response try integer IDs with positive integer value.    \
+  \     Negative or non-integer values will generate API errors"
+operationId: "deleteOrder"
+produces:
+  $ref: "./produces/index.yaml"
+parameters:
+  $ref: "./parameters/index.yaml"
+responses:
+  $ref: "./responses/index.yaml"

@@ -1,0 +1,4 @@
+X-Rate-Limit:
+  $ref: "./X-Rate-Limit/index.yaml"
+X-Expires-After:
+  $ref: "./X-Expires-After/index.yaml"

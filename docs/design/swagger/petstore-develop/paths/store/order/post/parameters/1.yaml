@@ -1,0 +1,6 @@
+in: "body"
+name: "body"
+description: "order placed for purchasing the pet"
+required: true
+schema:
+  $ref: "./schema/index.yaml"

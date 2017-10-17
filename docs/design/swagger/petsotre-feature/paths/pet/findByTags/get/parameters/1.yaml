@@ -1,0 +1,8 @@
+name: "tags"
+in: "query"
+description: "Tags to filter by"
+required: true
+type: "array"
+items:
+  $ref: "./items/index.yaml"
+collectionFormat: "multi"

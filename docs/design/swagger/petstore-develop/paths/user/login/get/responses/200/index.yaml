@@ -1,0 +1,5 @@
+description: "successful operation"
+schema:
+  $ref: "./schema/index.yaml"
+headers:
+  $ref: "./headers/index.yaml"
